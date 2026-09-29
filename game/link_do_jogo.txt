@@ -1,0 +1,10 @@
+LINK DO ADVERGAME JOGÁVEL NO NAVEGADOR:
+URL: https://ais-pre-opgv4oqvafhss5htmfaton-463263372549.us-east1.run.app
+
+Projeto: Passo Livre: Corrida nas Nuvens
+Cliente: Passo Livre (Opção 3 do Briefing da Aula)
+Produto: Tênis Passo Livre Nuvem
+Mascote: Lipe
+Plataforma: Web Browser (Mobile e Desktop) - 60 FPS
+Disciplina: Modelagem e Animação 3D (MA3D 06) - FMU TECH Level Up
+Docente: Prof. Hercules Ramos

@@ -1,0 +1,6 @@
+{
+  "name": "Advergame Studio: Do Briefing ao Jogo no Navegador",
+  "description": "Plataforma interativa e jogo no navegador para a disciplina Modelagem e Animação 3D (FMU TECH Level Up - Prof. Hercules Ramos), cobrindo o pipeline completo de advergames desde o briefing até a publicação web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
